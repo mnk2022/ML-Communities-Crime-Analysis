@@ -1,0 +1,10 @@
+For example, '35,9 no no yes yes yes yes no'
+Where:
+'35,9' Temperature of patient
+'no' Occurrence of nausea
+'no' Lumbar pain
+'yes' Urine pushing (continuous need for urination)
+'yes' Micturition pains
+'yes' Burning of urethra, itch, swelling of urethra outlet
+'yes' decision: Inflammation of urinary bladder
+'no' decision: Nephritis of renal pelvis origin 
